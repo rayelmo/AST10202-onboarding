@@ -10,16 +10,4 @@ Complete this exercise to register your GitHub account and practice the basic Gi
 6. Commit and push your change.
 7. Open a pull request to this repository.
 
-## Required file format
-
-Create this file:
-
-students/YOUR-GITHUB-USERNAME/profile.txt
-
-Replace the placeholders with your information:
-
-Name: Your name
-GitHub username: YOUR-GITHUB-USERNAME
-GitHub profile: https://github.com/YOUR-GITHUB-USERNAME
-
 Do not edit or delete another student's folder or file.
